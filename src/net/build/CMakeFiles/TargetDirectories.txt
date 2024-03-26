@@ -1,0 +1,3 @@
+/home/test/Desktop/network/src/net/build/CMakeFiles/rebuild_cache.dir
+/home/test/Desktop/network/src/net/build/CMakeFiles/edit_cache.dir
+/home/test/Desktop/network/src/net/build/CMakeFiles/TestNet.dir

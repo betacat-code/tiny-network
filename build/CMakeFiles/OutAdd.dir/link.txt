@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/OutAdd.dir/test.cpp.o  -o OutAdd 

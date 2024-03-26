@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16)
+project (TestTime)
+aux_source_directory(. TestTime)
+aux_source_directory(../net/ TestNet)
+aux_source_directory(../logger/ LOGGER)
+add_executable(TestTime ${TestTime} ${TestNet} ${LOGGER})
+target_link_libraries(TestTime pthread)

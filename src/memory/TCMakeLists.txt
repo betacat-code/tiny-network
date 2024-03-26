@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.16)
+project (TestMemory)
+aux_source_directory(. TEST_MEMORY)
+add_executable(TestMemory ${TEST_MEMORY})

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project (TestLogger)
+aux_source_directory(. TEST_LOGGER)
+add_executable(TestLogger ${TEST_LOGGER})
+target_link_libraries(TestLogger pthread)
