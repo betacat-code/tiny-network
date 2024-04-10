@@ -1,3 +1,0 @@
-/home/test/Desktop/network/src/time/build/CMakeFiles/rebuild_cache.dir
-/home/test/Desktop/network/src/time/build/CMakeFiles/edit_cache.dir
-/home/test/Desktop/network/src/time/build/CMakeFiles/TestTime.dir
