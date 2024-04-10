@@ -1,3 +1,0 @@
-/home/test/Desktop/network/build/CMakeFiles/rebuild_cache.dir
-/home/test/Desktop/network/build/CMakeFiles/edit_cache.dir
-/home/test/Desktop/network/build/CMakeFiles/tiny_network.dir
