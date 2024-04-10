@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/TestThreadPool.dir/TestThreadPool.cc.o CMakeFiles/TestThreadPool.dir/Thread.cc.o  -o TestThreadPool  -lpthread 

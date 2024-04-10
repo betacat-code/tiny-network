@@ -1,3 +1,0 @@
-/home/test/Desktop/network/src/base/build/CMakeFiles/rebuild_cache.dir
-/home/test/Desktop/network/src/base/build/CMakeFiles/edit_cache.dir
-/home/test/Desktop/network/src/base/build/CMakeFiles/TestThreadPool.dir
